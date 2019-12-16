@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee073256-a611-41cc-b1b4-5bcd9b8ac524" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee073256-a611-41cc-b1b4-5bcd9b8ac524" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -73,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -185,7 +183,39 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="pytransform" type="462c0819:PsiDirectoryNode" />
               <item name="platforms" type="462c0819:PsiDirectoryNode" />
+              <item name="centos6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-armed-bandit-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="hand_in" type="462c0819:PsiDirectoryNode" />
+              <item name="dv17pft-et16btt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pytransform" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+              <item name="centos6" type="462c0819:PsiDirectoryNode" />
+              <item name="x86_64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-armed-bandit-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="hand_in" type="462c0819:PsiDirectoryNode" />
+              <item name="dv17pft-et16btt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pytransform" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
               <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-armed-bandit-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="hand_in" type="462c0819:PsiDirectoryNode" />
+              <item name="dv17pft-et16btt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pytransform" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="x86_64" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
@@ -264,7 +294,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test_runner_dv17pft_et16btt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +353,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="27" width="1280" height="1413" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2350081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,9 +407,6 @@
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/bandit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -407,6 +433,9 @@
           <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
