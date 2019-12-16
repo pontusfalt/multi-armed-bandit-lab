@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee073256-a611-41cc-b1b4-5bcd9b8ac524" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,14 +28,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
           <entry key="sh" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="16" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -64,22 +64,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -186,6 +182,15 @@
               <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="multi-armed-bandit-lab" type="462c0819:PsiDirectoryNode" />
               <item name="hand_in" type="462c0819:PsiDirectoryNode" />
+              <item name="dv17pft-et16btt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pytransform" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi-armed-bandit-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi-armed-bandit-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="hand_in" type="462c0819:PsiDirectoryNode" />
               <item name="tkampik_jcnieves" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,12 +210,12 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test" />
-      <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt" />
       <recent name="$PROJECT_DIR$/hand_in/tkampik_jcnieves" />
+      <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/pytransform/platforms/centos6" />
       <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt" />
+      <recent name="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/pytransform/platforms/centos6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,7 +288,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +325,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="27" width="1280" height="1413" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23905997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -360,13 +364,6 @@
         <state relative-caret-position="-90" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/tester.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -397,13 +394,6 @@
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/bandit.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/bandit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -413,10 +403,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="360">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/tester.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hand_in/tkampik_jcnieves/test_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hand_in/dv17pft-et16btt/test/test_runner_dv17pft_et16btt.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
