@@ -17,22 +17,12 @@ def simulate():
 
     results = []
     for _ in range(0, 20):
-        sys.stdout.write("\033[1;36m")
         bandit_reward = bandit.simulator.simulate(bandit.bandit)
-        sys.stdout.write("\033[0;0m")
         ref_bandit_reward = bandit.simulator.simulate(bandit.ref_bandit)
         ref_plus_bonus = ref_bandit_reward * 1000
         result = 0
         if (bandit_reward > ref_plus_bonus):
             result = 1
-            sys.stdout.write("\033[1;32m")
-            print("Win!")
-            sys.stdout.write("\033[0;0m")
-        else:
-            sys.stdout.write("\033[1;31m")
-            print("Loss!")
-            sys.stdout.write("\033[0;0m")
-
         results.append(result)
     return results
 
